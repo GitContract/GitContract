@@ -1,5 +1,4 @@
-## GitContract
-
+<p align="center"><img width="240" src="https://github.com/GitContract/GitContract/blob/main/docs/logo.png?raw=true" alt="GitContract logo"></p>
 
 
 本项目目的在于利用Git工具和公开仓库来存放、公示和追溯合约。

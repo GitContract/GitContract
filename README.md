@@ -1,4 +1,4 @@
-<p align="center"><img width="108" src="https://github.com/GitContract/GitContract/blob/main/docs/logo.png?raw=true" alt="GitContract logo"></p>
+<p align="center"><img width="240" src="https://github.com/GitContract/GitContract/blob/main/docs/logo.png?raw=true" alt="GitContract logo"></p>
 
 
 [中文README](https://github.com/GitContract/GitContract/blob/main/docs/README_zh.md)
