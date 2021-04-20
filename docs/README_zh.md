@@ -93,7 +93,7 @@
 
 ```json
 {
-  "employee": "111@qq.com",
+  "employee": "Github用户名",
   "payment": "1"
 }
 ```

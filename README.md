@@ -95,7 +95,7 @@ e.g.
 
 ```json
 {
-  "employee": "someone@email.com",
+  "employee": "SOMEONE_GITHUB_NAME",
   "payment": 1
 }
 ```
